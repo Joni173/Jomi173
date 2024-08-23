@@ -7,7 +7,7 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
     <li>📍 Residente de Cordoba, Rio Segundo</b></li>
     <li>🏢 Actualmente estoy en busqueda de empleo
     <li>🌱 Estoy aprendiendo Java Script, PHP </b> and <b>Python</b></li>
-    <li>📮 You can contact me directly here : Yoniamaranto@gmail.com
+    <li>📮 Me pueden contactar por este medio : Yoniamaranto@gmail.com
   </ul>
   Hace un tiempo me eh centrado en aprender HTML Para dedicarme a desarollar paginas web.
   Eh aprendido a utilizar C#, PHP Y Android Studio
