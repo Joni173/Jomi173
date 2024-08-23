@@ -14,7 +14,7 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
   
 </p>
 
-## 🌐 You can find me on :
+## 🌐Puedes encontrarme en:
 - *Facebook*: https://www.facebook.com/alejandro.amaranto.12?locale=es_LA
 - *Instagram*: https://www.instagram.com/joni.amaranto/
   
