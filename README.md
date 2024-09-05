@@ -1,16 +1,15 @@
 # Hola a todos, mi nombre es Jonatan Amaranto
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
 <p width="45%">
-Hi, nice to meet you. Let me introduce my profile in a few lines.
+Hola, es un placer conocerte. Permíteme presentarte brevemente mi perfil:
   <ul>
-    <li>👨‍🔧 Soy desarollador de software</b></li>
+    <li>👨‍🔧 Desarrollador de Software con experiencia en diversos lenguajes y herramientas de programación.</b></li>
     <li>📍 Residente de Cordoba, Rio Segundo</b></li>
-    <li>🏢 Actualmente estoy en busqueda de empleo
-    <li>🌱 Estoy aprendiendo Java Script, PHP </b> and <b>Python</b></li>
-    <li>📮 Me pueden contactar por este medio : Yoniamaranto@gmail.com
+    <li>🏢  Actualmente en búsqueda de empleo en el área de desarrollo de software.
+    <li>🌱 En constante aprendizaje en Java Script, PHP </b> and <b>Python</b></li>
+    <li>📮 Me pueden contactar por : Yoniamaranto@gmail.com
   </ul>
-  Hace un tiempo me eh centrado en aprender HTML Para dedicarme a desarollar paginas web.
-  Eh aprendido a utilizar C#, PHP Y Android Studio
+En el pasado reciente, me he enfocado en el aprendizaje de HTML con el objetivo de especializarme en el desarrollo de páginas web. También he adquirido conocimientos en C#, PHP y Android Studio.
   
 </p>
 
